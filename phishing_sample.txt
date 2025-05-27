@@ -1,0 +1,16 @@
+From: Account Security <secure@paypel.com>
+To: victim@example.com
+Subject: Urgent: Verify Your PayPal Account Immediately!
+
+Dear Customer,
+
+We noticed suspicious activity in your PayPal account. Please verify your identity by clicking the link below:
+
+https://secure-paypel.com/login
+
+Failure to verify will result in account suspension.
+
+Thank you for your attention.
+
+Sincerely,  
+PayPal Security Team
